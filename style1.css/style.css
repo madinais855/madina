@@ -1,0 +1,61 @@
+.image-container {
+    display:flex;
+    align-items: center;
+
+}
+.image-container{
+
+    margin-right: 50px;
+}
+ .image-container p {
+    margin: 30px;
+text-align: justify;
+
+}
+.description{
+    margin: 30px;
+text-align: justify;
+}
+.image2-container{
+    display:flex;
+    align-items: center;
+}
+.image2-container{
+    margin-right: 50px;
+}
+.image2-container p{
+    margin: 30px;
+    text-align: justify;
+}
+.description2{
+    margin: 30px;
+text-align: justify;
+}
+.image3-container{
+    display:flex;
+    align-items: center;
+}
+.image3-container{
+    margin-right: 50px;
+}
+.image3-container p{
+    margin: 30px;
+    text-align: justify;
+}
+.description3{
+    margin: 30px;
+text-align: justify;}
+.image4-container{
+    display:flex;
+    align-items: center;
+}
+.image4-container{
+    margin-right: 50px;
+}
+.image4-container p{
+    margin: 30px;
+    text-align: justify;
+}
+.description4{
+    margin: 30px;
+text-align: justify;}
